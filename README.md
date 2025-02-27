@@ -1,6 +1,7 @@
-# 欢迎使用陌光助理M-Assistant - 以下简称: MA.           By:大陌DM
-交流群:647374483(资源下载)
-作者QQ:269653764
+# 欢迎使用陌光助理M-Assistant - 以下简称: MA.           
+## By:大陌DM
+# 交流群:647374483(资源下载)
+# 作者QQ:269653764
 ## <高效搭建,高效调用>是MA的宗旨
 ![image](https://github.com/user-attachments/assets/ec28840f-ecbd-44c5-97bb-d682d4db4631)
 这是一款Windows平台综合自动化软件,不管你会不会代码,都能调用丰富的命令完成任务,
