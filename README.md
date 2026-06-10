@@ -1,5 +1,5 @@
-# 欢迎使用陌光助理M-Assistant - 以下简称: MA. 
-当前本项目已停更, 已将本项目整合进灵触SpiritualTouch当中:  https://github.com/superDMS/SpiritualTouch
+    # 欢迎使用陌光助理M-Assistant - 以下简称: MA. 
+已将本项目整合进灵触SpiritualTouch当中: https://github.com/superDMS/SpiritualTouch  获得更便捷强大的触发方式.
 
 ## By:大陌DM
 # 交流群:647374483(资源下载)
